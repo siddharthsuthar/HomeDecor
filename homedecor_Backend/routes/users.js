@@ -13,11 +13,21 @@ router.post('/', function(req, res, next) {
     newUser.password = req.body.password;
     console.log("---------");
     console.log(newUser);
-    console.log("---------");
+    console.log("------ddd---");
 
-    newUser.save();
+    newUser.save(function(err){
+      if(err){
+        //  res.json({msg: 'Failed to add details'}).send();
+        res.send(err);
+      }
+      else{
+          //res.json({msg: 'details added asuccesfully'}).send();
+        res.status(200).send();
+      }
 
-    res.send({"message": "here I am"});
+  });
+
+   
 });
 
 module.exports = router;
