@@ -15,7 +15,6 @@ router.post('/', function(req, res, next) {
     newItem.path = req.body.path;
     newItem.description = req.body.description;
 
-
     newItem.save(function(err) {
         if (err){
             res.send(err);
@@ -26,5 +25,16 @@ router.post('/', function(req, res, next) {
 
 });
 
+router.get('/:Item_Id',function (req,res,next) {
+
+    UserDetails.find(req.params.user_id, function (err,item) {
+        if(err){
+            res.status(404).send({"message":"User not found"});
+        }
+        else{
+            res.status(200).send(item);
+        }
+    })
+})
 
 module.exports = router;
