@@ -7,9 +7,7 @@ var Items = require('../models/Items');
 
 router.post('/', function(req, res, next) {
 
-
     var newItem = new Items();
-
     newItem.Item_id = req.body.Item_id;
     newItem.price = req.body.price;
     newItem.path = req.body.path;
@@ -21,14 +19,16 @@ router.post('/', function(req, res, next) {
             res.send(err);
         }
         console.log(req.body);
-        res.status(200).send();
+        res.status(200).send({"message":"Item added"});
     });
 
 });
 
-router.get('/:Item_Id',function (req,res,next) {
+router.get('/:Item_id',function (req,res,next) {
 
-    Items.find(req.params.user_id, function (err,item) {
+    console.log("inside specific Id");
+    console.log(req.params.Item_id);
+    Items.find(req.params.Item_id, function (err,item) {
         if(err){
             res.status(404).send({"message":"Item not found"});
         }
@@ -41,7 +41,7 @@ router.get('/:Item_Id',function (req,res,next) {
 
 router.get('/Items', function (req,res,next) {
 
-    Items.find(function (err,item) {
+    Items.findAll(function (err,item) {
         if(err){
             res.status(404).send({"message": "No Items"});
         }
