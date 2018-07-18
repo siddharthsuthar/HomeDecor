@@ -12,25 +12,6 @@ router.post('/', function(req, res, next) {
     newUser.last_name = req.body.last_name;
     newUser.email = req.body.email;
     newUser.password = req.body.password;
-<<<<<<< HEAD
-    console.log("---------");
-    console.log(newUser);
-    console.log("------ddd---");
-
-    newUser.save(function(err){
-      if(err){
-        //  res.json({msg: 'Failed to add details'}).send();
-        res.send(err);
-      }
-      else{
-          //res.json({msg: 'details added asuccesfully'}).send();
-        res.status(200).send();
-      }
-
-  });
-
-   
-=======
 
     newUser.save(function(err) {
         if (err){
@@ -40,7 +21,6 @@ router.post('/', function(req, res, next) {
         res.status(200).send();
     });
 
->>>>>>> d8fc1204af44d5ff791c09e7c04dff71abe31d8c
 });
 
 module.exports = router;
