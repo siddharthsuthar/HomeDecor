@@ -14,6 +14,7 @@ router.post('/', function(req, res, next) {
     newItem.price = req.body.price;
     newItem.path = req.body.path;
     newItem.description = req.body.description;
+    newItem.quantity = req.body.quantity;
 
     newItem.save(function(err) {
         if (err){
@@ -27,9 +28,9 @@ router.post('/', function(req, res, next) {
 
 router.get('/:Item_Id',function (req,res,next) {
 
-    UserDetails.find(req.params.user_id, function (err,item) {
+    Items.find(req.params.user_id, function (err,item) {
         if(err){
-            res.status(404).send({"message":"User not found"});
+            res.status(404).send({"message":"Item not found"});
         }
         else{
             res.status(200).send(item);
@@ -37,4 +38,18 @@ router.get('/:Item_Id',function (req,res,next) {
     })
 })
 
+
+router.get('/Items', function (req,res,next) {
+
+    Items.find(function (err,item) {
+        if(err){
+            res.status(404).send({"message": "No Items"});
+        }
+        else{
+            res.status(200).send(item);
+        }
+    })
+
+
+})
 module.exports = router;
