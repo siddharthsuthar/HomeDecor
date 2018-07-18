@@ -3,8 +3,6 @@ var router = express.Router();
 var UserDetails = require('../models/UserDetails');
 /* GET users listing. */
 router.post('/', function(req, res, next) {
-
-
     var newUser = new UserDetails();
 
     newUser.user_id = req.body.user_id;
