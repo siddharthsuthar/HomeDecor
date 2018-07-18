@@ -2,110 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9cfa774-7c15-4fd8-a099-43b46d8f42c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/app.js" afterPath="$PROJECT_DIR$/homedecor_Backend/app.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/models/UserDetails.js" afterPath="$PROJECT_DIR$/homedecor_Backend/models/UserDetails.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/browser_build/bson.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/browser_build/bson.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/builderror.log" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/builderror.log" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/bson.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/bson.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/bson.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/bson.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/win32/ia32/bson.node" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/win32/ia32/bson.node" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/win32/x64/bson.node" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/ext/win32/x64/bson.node" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/lib/bson/bson.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/lib/bson/bson.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/package.json" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/bson/package.json" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/README.md" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/README.md" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/binding.gyp" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/binding.gyp" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/build/Release/.deps/Release/obj.target/kerberos/lib/kerberos.o.d.raw" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/build/kerberos.target.mk" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/build/kerberos.target.mk" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/builderror.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/auth_processes/mongodb.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/auth_processes/mongodb.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/base64.c" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/base64.c" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/base64.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/base64.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos_context.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos_context.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos_context.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberos_context.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberosgss.c" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberosgss.c" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberosgss.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/kerberosgss.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos_sspi.c" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos_sspi.c" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos_sspi.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/kerberos_sspi.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/worker.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/worker.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer_descriptor.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer_descriptor.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer_descriptor.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_buffer_descriptor.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_context.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_context.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_context.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_context.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_credentials.cc" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_credentials.cc" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_credentials.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_credentials.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_credentials.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/win32/wrappers/security_credentials.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/worker.h" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/lib/worker.h" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/package.json" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/package.json" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/test/kerberos_tests.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/test/kerberos_win32_test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/test/win32/security_buffer_descriptor_tests.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/test/win32/security_buffer_tests.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/kerberos/test/win32/security_credentials_tests.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/Readme.md" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/Readme.md" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_cr.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_cr.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_gssapi.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_gssapi.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_plain.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_sspi.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/auth/mongodb_sspi.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/collection.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/collection.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/db_command.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/db_command.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/delete_command.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/delete_command.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/get_more_command.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/get_more_command.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/insert_command.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/insert_command.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/query_command.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/query_command.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/update_command.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/commands/update_command.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/base.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/base.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/connection.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/connection.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/connection_pool.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/connection_pool.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/mongos.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/mongos.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/repl_set/ha.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/repl_set/ha.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/repl_set/repl_set.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/repl_set/repl_set.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/repl_set/strategies/ping_strategy.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/repl_set/strategies/ping_strategy.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/server.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/server.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/url_parser.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/connection/url_parser.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/cursor.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/cursor.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/cursorstream.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/cursorstream.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/db.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/db.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/gridfs/gridstore.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/gridfs/gridstore.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/gridfs/readstream.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/gridfs/readstream.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/index.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/index.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/mongo_client.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/mongo_client.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/responses/mongo_reply.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/utils.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/lib/mongodb/utils.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/package.json" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/package.json" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongodb/t.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/History.md" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/History.md" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/README.md" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/README.md" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/connection.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/connection.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/document.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/document.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/index.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/index.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/model.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/model.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/query.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/query.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/array.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/array.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/embedded.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/number.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/number.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/objectid.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/objectid.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/string.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schema/string.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schematype.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/lib/schematype.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/package.json" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/package.json" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/static.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/static.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/website.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/mongoose/website.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/History.md" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/History.md" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/Makefile" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/Makefile" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/component.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/lib/sliced.js" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/lib/sliced.js" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/package.json" afterPath="$PROJECT_DIR$/homedecor_Backend/node_modules/sliced/package.json" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/package-lock.json" afterPath="$PROJECT_DIR$/homedecor_Backend/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/homedecor_Backend/package.json" afterPath="$PROJECT_DIR$/homedecor_Backend/package.json" />
       <change beforePath="$PROJECT_DIR$/homedecor_Backend/routes/users.js" afterPath="$PROJECT_DIR$/homedecor_Backend/routes/users.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -163,8 +59,8 @@
       <file leaf-file-name="users.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/homedecor_Backend/routes/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+            <state relative-caret-position="313">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -297,15 +193,16 @@
       <updated>1530656965585</updated>
       <workItem from="1530656967959" duration="1806000" />
       <workItem from="1531519925301" duration="1146000" />
-      <workItem from="1531865029238" duration="4803000" />
+      <workItem from="1531865029238" duration="5336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7755000" />
+    <option name="totallyTimeSpent" value="8288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -314,7 +211,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3810179" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3810179" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -475,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/homedecor_Backend/routes/users.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="19" column="30" lean-forward="false" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        <state relative-caret-position="313">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
