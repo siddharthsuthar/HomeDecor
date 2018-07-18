@@ -1,6 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var UserDetails = require('../models/UserDetails');
+
 /* GET users listing. */
 router.post('/', function(req, res, next) {
 
@@ -20,8 +21,6 @@ router.post('/', function(req, res, next) {
         res.status(200).send();
     });
 });
-
-
 router.get('/:user_id',function (req,res,next) {
 
     UserDetails.find(req.params.user_id, function (err,user) {
@@ -35,6 +34,7 @@ router.get('/:user_id',function (req,res,next) {
     })
     
 })
+
 
 
 
